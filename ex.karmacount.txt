@@ -1,0 +1,44 @@
+Karma Scores for onlysame1 for Last 1K Comments
+--------------------------
+Total karma Count for Last 1K Comments: 8375
+
+news: 4536
+nba: 1677
+pics: 448
+videos: 401
+OrlandoMagic: 392
+PublicFreakout: 365
+gifs: 142
+watchpeopledie: 129
+PerfectTiming: 39
+NSFW_GIF: 36
+RoomPorn: 31
+technology: 22
+AskReddit: 11
+WTF: 11
+NBA_Draft: 10
+nsfw: 9
+teslamotors: 9
+PeopleFuckingDying: 8
+CozyPlaces: 8
+UpliftingNews: 8
+todayilearned: 8
+ElPaso: 6
+funny: 5
+MostBeautiful: 5
+bestof: 4
+phoenix: 2
+interestingasfuck: 2
+Music: 2
+germany: 1
+Unexpected: 1
+ChildrenFallingOver: 1
+StartledCats: 1
+The_Donald: 1
+babybigcatgifs: 1
+cosplaygirls: 1
+celebnsfw: 0
+LinkinPark: 0
+woahdude: -1
+nfl: -1
+aww: -1
