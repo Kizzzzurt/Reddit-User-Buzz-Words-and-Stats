@@ -1,1 +1,1 @@
-This script is to get the new comments (last 500) that contain the buzzwords in the buzzword dictionary, the 25 most controversial posts made by the Redditor, and the karma scores for 1,000 new comments broken down by subreddit.
+This script is to get the new comments (out of the last 500) that contain the buzzwords in the buzzword dictionary, the 25 most controversial posts made by the Redditor, and the karma scores for 1,000 new comments broken down by subreddit.
